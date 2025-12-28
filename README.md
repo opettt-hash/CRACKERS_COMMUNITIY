@@ -41,8 +41,9 @@
 <img src="rolandino.jpg" alt="IP Result" width="100%" />
 <p align="center">
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200px" alt="Animated stars" />
+  <img src="https://pixabay.com/id/gifs/bintang-lima-bintang-membentuk-24293/" alt="5 Star GIF" />
 </p>
+
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=170&section=footer" />
