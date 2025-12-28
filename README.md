@@ -3,15 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:1a1a1a&height=230&section=header&text=CRACKERS%20COMMUNITY&fontColor=ffffff&fontSize=58&fontAlignY=40&animation=fadeIn" />
 </p>
 
-<!-- ================= TYPING QUOTE ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&color=9E9E9E&center=true&vCenter=true&width=700&lines=Tidak+Semua+Yang+Diam+Itu+Lemah;Sebagian+Sedang+Membangun+Sesuatu;Yang+Tak+Terlihat..." />
-</p>
-
 <!-- ================= STATIC SAD TEXT ================= -->
 <h3 align="center" style="color:#8a8a8a;">
-  “Tidak semua yang diam itu lemah,<br>
-  sebagian sedang membangun sesuatu yang tak terlihat.”
+  “tidak semua yang diam itu lemah,<br>
+  sebagian sedang membangun sesuatu yang tak terlihat”
 </h3>
 
 <br>
