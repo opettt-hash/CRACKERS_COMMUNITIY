@@ -5,10 +5,8 @@
 
 <!-- ================= MOVING TEXT (FIXED) ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=8A8A8A&center=true&vCenter=true&width=900&lines=Yang+Sunyi+Bukan+Berarti+Kosong;Ada+Sesuatu+Yang+Sedang+Tumbuh+Dan+Itu+Berbahaya!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00cc66&center=true&vCenter=true&width=900&lines=Yang+Sunyi+Bukan+Berarti+Kosong;Ada+Sesuatu+Yang+Sedang+Tumbuh+Dan+Itu+Berbahaya!" />
 </p>
-
-<br>
 
 <!-- ================= HACKER VISUAL ================= -->
 <p align="center">
