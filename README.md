@@ -29,11 +29,6 @@
 
 <br>
 
-<!-- ================= SNAKE ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 <!-- ================= FOOTER ================= -->
 <img src="rolandino.jpg" alt="IP Result" width="100%">
 <p align="center">
