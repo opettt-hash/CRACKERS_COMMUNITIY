@@ -28,19 +28,6 @@
 </p>
 
 <!-- ================= SOCIAL LINKS ================= -->
-<p align="center">
-  <a href="https://t.me/Crackers_Communitiy">
-    <img src="https://img.shields.io/badge/Telegram-Crackers%20Community-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100094471519310">
-    <img src="https://img.shields.io/badge/Facebook-Profile-111111?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<!-- ================= FOOTER ================= -->
 <img src="rolandino.jpg" alt="IP Result" width="100%">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=170&section=footer" />
