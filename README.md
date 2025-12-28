@@ -3,23 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:1a1a1a&height=230&section=header&text=CRACKERS%20COMMUNITY&fontColor=ffffff&fontSize=58&fontAlignY=40&animation=fadeIn" />
 </p>
 
-<!-- ================= MOVING TEXT ================= -->
+<!-- ================= MOVING TEXT (FIXED) ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=JetBrains+Mono
-    &size=20
-    &duration=3500
-    &pause=1000
-    &color=8A8A8A
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=Yang+sunyi+bukan+berarti+kosong;
-    Ada+sesuatu+yang+sedang+tumbuh…+dan+itu+berbahaya."
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=8A8A8A&center=true&vCenter=true&width=900&lines=Yang+sunyi+bukan+berarti+kosong;Ada+sesuatu+yang+sedang+tumbuh...+dan+itu+berbahaya." />
 </p>
 
 <br>
+
 <!-- ================= HACKER VISUAL ================= -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
