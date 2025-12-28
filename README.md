@@ -4,14 +4,22 @@
 </p>
 
 <!-- ================= MOVING TEXT ================= -->
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <h3 style="color:#8a8a8a; font-family: monospace; margin: 0;">
-    Yang sunyi bukan berarti kosong — Ada sesuatu yang sedang tumbuh… dan itu berbahaya.
-  </h3>
-</marquee>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=JetBrains+Mono
+    &size=20
+    &duration=3500
+    &pause=1000
+    &color=8A8A8A
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=Yang+sunyi+bukan+berarti+kosong;
+    Ada+sesuatu+yang+sedang+tumbuh…+dan+itu+berbahaya."
+  />
+</p>
 
 <br>
-
 <!-- ================= HACKER VISUAL ================= -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
