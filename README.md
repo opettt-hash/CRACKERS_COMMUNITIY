@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:1a1a1a&height=230&section=header&text=CRACKERS%20COMMUNITY&fontColor=ffffff&fontSize=58&fontAlignY=40&animation=fadeIn" />
 </p>
-<p align="center"> <img width="400px" src="https://i.postimg.cc/258grZf5/world1.webp"></p>
-
 
 <!-- ================= MOVING TEXT (FIXED) ================= -->
 <p align="center">
