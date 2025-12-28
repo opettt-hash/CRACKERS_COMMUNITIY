@@ -1,25 +1,41 @@
+<!-- HEADER WAVING -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Rolandino&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=220&section=header&text=Rolandino&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn" />
 </p>
 
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=8A8A8A&center=true&vCenter=true&width=600&lines=Security+Researcher;Automation+Engineer;Python+Developer;Low+Noise+%7C+High+Precision" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=8F8F8F&center=true&vCenter=true&width=700&lines=Security+Researcher;Automation+Engineer;Python+Developer;Low+Noise+%7C+High+Precision;Working+in+Silence" />
 </p>
 
 ---
 
+<!-- GALAU QUOTE -->
 <p align="center">
-  Saya berfokus pada riset keamanan aplikasi web dan pengembangan sistem otomasi
+  <i>
+    “Tidak semua yang diam itu lemah,<br>
+    sebagian sedang membangun sesuatu yang tak terlihat.”
+  </i>
+</p>
+
+---
+
+<!-- MATRIX / CODE RAIN -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- ABOUT (SHORT & COLD) -->
+<p align="center">
+  Fokus pada riset keamanan aplikasi web dan pengembangan sistem otomasi<br>
   dengan pendekatan teknikal, terukur, dan minim distraksi.
 </p>
 
 <p align="center">
-  Ketertarikan utama meliputi analisis perilaku aplikasi,
-  otomasi proses riset,
-  serta perancangan tooling yang stabil dan berumur panjang.
+  Analisis perilaku aplikasi • Otomasi riset • Tooling jangka panjang
 </p>
-
----
 
 <p align="center">
   <sub>
@@ -29,26 +45,47 @@
 
 ---
 
-<p align="center">
-  <a href="https://t.me/rolandino28">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://t.me/Crackers_Communitiy">
-    <img src="https://img.shields.io/badge/Community-000000?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100094471519310">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-</p>
+$ whoami
+> Rolandino
 
----
+$ focus
+> security research
+> automation
+> silent development
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opettt-hash&bg_color=000000&color=6e6e6e&line=9e9e9e&point=ffffff&area=true&hide_border=true" />
-</p>
+$ status
+> still building...
 
-<p align="center">
-  <sub>
-    quietly building systems that work.
-  </sub>
-</p>
+$ mindset
+> low profile
+> high precision
+> no shortcuts
+
+$ philosophy
+> code speaks louder than words
+> consistency beats intensity
+> silence is part of the process
+
+$ current_state
+> learning
+> breaking
+> rebuilding
+
+$ visibility
+> minimal
+> intentional
+
+$ expectations
+> none
+
+$ roadmap
+> observe
+> analyze
+> automate
+> repeat
+
+$ last_message
+> working quietly while everything else stays loud
+
+$ exit
+> _
