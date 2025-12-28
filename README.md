@@ -4,38 +4,15 @@
 </p>
 
 <!-- ================= STATIC SAD TEXT ================= -->
-<h3 align="center">
-  <span class="typing">
-    Yang sunyi bukan berarti kosong.<br>
-    Ada sesuatu yang sedang tumbuh… dan itu berbahaya.
-  </span>
-</h3>
-
-<style>
-.typing {
-  color: #8a8a8a;
-  font-family: monospace;
-  display: inline-block;
-  border-right: 2px solid #8a8a8a;
-  white-space: nowrap;
-  overflow: hidden;
-  animation:
-    typing 4s steps(60, end),
-    blink .7s infinite;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink {
-  50% { border-color: transparent }
-}
-</style>
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  <h3 style="color:#8a8a8a; font-family: monospace;">
+    Yang sunyi bukan berarti kosong — Ada sesuatu yang sedang tumbuh… dan itu berbahaya.
+  </h3>
+</marquee>
 
 <br>
 <<!-- ================= HACKER VISUAL ================= -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
 </p>
