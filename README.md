@@ -5,7 +5,7 @@
 
 <!-- ================= MOVING TEXT (FIXED) ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Yang+Sunyi+Bukan+Berarti+"Kosong";Ada+Sesuatu+Yang+Sedang+Tumbuh+Dan+Itu+%22Berbahaya%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Yang+Sunyi+Bukan+Berarti+%22Kosong%22;Ada+Sesuatu+Yang+Sedang+Tumbuh+Dan+Itu+%22Berbahaya%22" />
 </p>
 
 <!-- ================= HACKER VISUAL ================= -->
