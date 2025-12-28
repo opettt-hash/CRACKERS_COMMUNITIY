@@ -25,37 +25,35 @@
 
 <!-- ================= HACKER VISUAL ================= -->
 <p align="center">
-  <img width="400px" src="https://i.postimg.cc/258grZf5/world1.webp" />
+  <img width="400" src="https://i.postimg.cc/258grZf5/world1.webp" />
 </p>
 
 <br>
 
-<!-- ================= STAR ANIMATION ================= -->
+<!-- ================= STAR ANIMATION (GITHUB SAFE) ================= -->
 <p align="center">
   <svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .star {
-        fill: #00ff41;
-        opacity: 0.2;
-        animation: blink 1.8s infinite;
-      }
-      .s2 { animation-delay: .3s }
-      .s3 { animation-delay: .6s }
-      .s4 { animation-delay: .9s }
-      .s5 { animation-delay: 1.2s }
 
-      @keyframes blink {
-        0%   { opacity: 0.2; transform: scale(1); }
-        50%  { opacity: 1; transform: scale(1.2); }
-        100% { opacity: 0.2; transform: scale(1); }
-      }
-    </style>
+    <polygon fill="#00FF41" points="40,10 45,30 65,30 48,42 55,62 40,50 25,62 32,42 15,30 35,30">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+    </polygon>
 
-    <polygon class="star s1" points="40,10 45,30 65,30 48,42 55,62 40,50 25,62 32,42 15,30 35,30"/>
-    <polygon class="star s2" points="90,10 95,30 115,30 98,42 105,62 90,50 75,62 82,42 65,30 85,30"/>
-    <polygon class="star s3" points="140,10 145,30 165,30 148,42 155,62 140,50 125,62 132,42 115,30 135,30"/>
-    <polygon class="star s4" points="190,10 195,30 215,30 198,42 205,62 190,50 175,62 182,42 165,30 185,30"/>
-    <polygon class="star s5" points="240,10 245,30 265,30 248,42 255,62 240,50 225,62 232,42 215,30 235,30"/>
+    <polygon fill="#00FF41" points="90,10 95,30 115,30 98,42 105,62 90,50 75,62 82,42 65,30 85,30">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+    </polygon>
+
+    <polygon fill="#00FF41" points="140,10 145,30 165,30 148,42 155,62 140,50 125,62 132,42 115,30 135,30">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+    </polygon>
+
+    <polygon fill="#00FF41" points="190,10 195,30 215,30 198,42 205,62 190,50 175,62 182,42 165,30 185,30">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.9s" repeatCount="indefinite"/>
+    </polygon>
+
+    <polygon fill="#00FF41" points="240,10 245,30 265,30 248,42 255,62 240,50 225,62 232,42 215,30 235,30">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="1.2s" repeatCount="indefinite"/>
+    </polygon>
+
   </svg>
 </p>
 
@@ -66,7 +64,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=divider" />
 </p>
 
-<!-- ================= IMAGE / RESULT ================= -->
+<!-- ================= IMAGE ================= -->
 <img src="rolandino.jpg" alt="IP Result" width="100%" />
 
 <!-- ================= FOOTER ================= -->
